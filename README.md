@@ -1,2 +1,2 @@
 # sandstormx.github.io
-page repository
+page repository c=3
